@@ -17,3 +17,5 @@ O Snapshot é uma cópia de segurança (backup) de um disco EBS em um momento es
 ## Diferença entre AMI e Snapshot
 * **AMI:** É o modelo do servidor completo (sistema e configurações), usado para criar novas máquinas.
 * **Snapshot:** É o backup exclusivo dos dados de um disco rígido virtual.
+
+![Arquitetura do Projeto](arquitetura.png)
